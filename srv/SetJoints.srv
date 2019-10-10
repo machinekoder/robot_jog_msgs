@@ -11,3 +11,6 @@ float64[] values
 
 # wether the command was successful or not
 bool success
+
+# if the target joints values are the same as the current joint values
+bool is_current
